@@ -1,3 +1,4 @@
+
 package main;
 
 public class App {
@@ -5,7 +6,7 @@ public class App {
     {
         System.out.println("Hello world!" );
         System.out.print("Tekstiä ");
-        System.out.println("tänne");
-        System.out.println(666);
+        System.out.println("tähän!");
+        System.out.println(333);
     }
 }
